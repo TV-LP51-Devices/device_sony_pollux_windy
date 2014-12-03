@@ -1,1 +1,1 @@
-add_lunch_combo cm_pollux_windy-eng
+add_lunch_combo validus_pollux_windy-userdebug
